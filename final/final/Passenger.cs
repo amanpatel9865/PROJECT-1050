@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace final
-
+     
 {
 
     public class Passenger
